@@ -1,0 +1,26 @@
+{
+  "name": "ecalc",
+  "version": "1.0.0",
+  "description": "Basic calculator using Electorn",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MShahzadMirza/ECalc.git"
+  },
+  "keywords": [
+    "Electron",
+    "Calculator"
+  ],
+  "author": "Muhammad Shahzad Mirza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MShahzadMirza/ECalc/issues"
+  },
+  "homepage": "https://github.com/MShahzadMirza/ECalc#readme",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}
