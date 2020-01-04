@@ -4,6 +4,7 @@
   "description": "Basic calculator using Electorn",
   "main": "main.js",
   "scripts": {
+    "test": "jest",
     "start": "electron ."
   },
   "repository": {
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/MShahzadMirza/ECalc#readme",
   "devDependencies": {
-    "electron": "^7.1.7"
+    "electron": "^7.1.7",
+    "jest": "^24.9.0"
   }
 }
