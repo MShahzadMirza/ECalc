@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/MShahzadMirza/ECalc#readme",
   "devDependencies": {
-    "electron": "^7.1.7",
+    "electron": "^7.2.4",
     "jest": "^24.9.0"
   }
 }
